@@ -1,2 +1,2 @@
-# Event-Management-System
-The Event Management System  umožní používateľom vyhľadávať, registrovať sa a spravovať rôzne podujatia (konferencie, semináre, webové semináre atď. Správcovia budú môcť vytvárať podujatia, aktualizovať podrobnosti o podujatiach a zobrazovať zoznamy účastníkov.
+# Zadanie od zákazníka
+Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a spravovať rôzne podujatia, ako sú konferencie, semináre či webové semináre. Správcovia budú môcť vytvárať nové podujatia, aktualizovať ich podrobnosti a zobrazovať zoznamy účastníkov. V systéme by malo byť možné vyhľadávať v podujatiach a filtrovať ich podľa rôznych kritérií. Používatelia by mali mať možnosť získať notifikácie o zmenách v podujatiach, na ktoré sú prihlásení. Pri podujatiach môžu byť priložené dodatočné materiály alebo odkazy.
