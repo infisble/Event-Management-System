@@ -14,7 +14,7 @@ Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a 
 - RQ08 Systém umožní administrátorovi spravovať účty používateľov (aktivácia, deaktivácia, reset hesla).
 - RQ09 Systém umožní zverejňovať najpopulárnejšie podujatia na základe počtu registrácií alebo hodnotení.
 - RQ10 Systém umožní používateľom pridávať spätnú väzbu na podujatia, ktorá môže byť verejne zobrazená.
-- RQ11 Systém umožní používateľom poslať otázku organizátorovi podujatia cez integrovaný komunikačný kanál
+- RQ11 Systém umožní používateľom poslať otázku organizátorovi podujatia cez integrovaný komunikačný kanál.
 - RQ13 Systém umožní správcovi označiť dôležité oznamy, ktoré sa zobrazia účastníkom prihláseným na podujatie.
 - RQ14 Systém umožní účastníkom získať certifikát o účasti po absolvovaní podujatia.
 - RQ15 Systém umožní organizátorom odosielať hromadné e-maily účastníkom podujatia.
