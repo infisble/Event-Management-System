@@ -2,7 +2,7 @@
 
 Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a spravovať rôzne podujatia, ako sú konferencie, semináre či webové semináre. Správcovia budú môcť vytvárať nové podujatia, aktualizovať ich podrobnosti a zobrazovať zoznamy účastníkov. V systéme by malo byť možné vyhľadávať v podujatiach a filtrovať ich podľa rôznych kritérií. Používatelia by mali mať možnosť získať notifikácie o zmenách v podujatiach, na ktoré sú prihlásení. Pri podujatiach môžu byť priložené dodatočné materiály alebo odkazy.
 
-# Zber požiadaviek
+## Zber požiadaviek
 
 - RQ01 Systém umožní používateľovi zaregistrovať sa a prihlásiť sa do systému.
 - RQ02 Systém umožní používateľom vyhľadávať podujatia podľa rôznych kritérií (napr. dátum, typ podujatia, lokalita).
@@ -19,3 +19,18 @@ Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a 
 - RQ14 Systém umožní účastníkom získať certifikát o účasti po absolvovaní podujatia.
 - RQ15 Systém umožní organizátorom odosielať hromadné e-maily účastníkom podujatia.
 - RQ16 Systém umožní používateľom získať upozornenie na podobné podujatia na základe ich preferencií.
+
+  ## Slovník pojmov
+
+| **Pojem** | **Anglický názov** | **Definícia** |
+|-----------|----------------|-------------|
+| **Podujatie** | Event | Organizovaná udalosť, ako je konferencia, seminár alebo webový seminár. |
+| **Správca** | Administrator | Osoba zodpovedná za tvorbu a správu podujatí, vrátane zoznamov účastníkov. |
+| **Používateľ** | User | Osoba, ktorá sa môže registrovať na podujatie, dostávať notifikácie a spravovať svoje účty. |
+| **Notifikácia** | Notification | Upozornenie o zmenách v podujatiach, na ktoré je používateľ prihlásený. |
+| **Príloha** | Attachment | Dodatočný materiál alebo odkaz pripojený k podujatiu. |
+| **Certifikát** | Certificate | Dokument potvrdzujúci účasť na podujatí. |
+| **Spätná väzba** | Feedback | Hodnotenie alebo komentár k podujatiu poskytnutý používateľmi. |
+| **Hromadný e-mail** | Mass Email | E-mail odoslaný organizátorom viacerým účastníkom podujatia naraz. |
+| **Oznam** | Announcement | Dôležitá správa určená účastníkom prihláseným na podujatie. |
+
