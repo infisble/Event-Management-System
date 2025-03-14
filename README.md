@@ -22,9 +22,7 @@ Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a 
 
   ## Slovník pojmov
 
-Here is the updated table in the same format as your input:
 
-```
 | **Pojem** | **Anglický názov** | **Definícia** |
 |-----------|----------------|-------------|
 | **Podujatie** | Event | Organizovaná udalosť, ako je konferencia, seminár alebo webový seminár. |
@@ -38,6 +36,6 @@ Here is the updated table in the same format as your input:
 | **Oznam** | Announcement | Dôležitá správa určená účastníkom prihláseným na podujatie. |
 | **Mentor kurzu** | Course Mentor | Osoba poskytujúca odborné vedenie a podporu účastníkom kurzu. |
 | **Účet** | Account | Individuálny profil používateľa s osobnými údajmi a nastaveniami. |
-```
+
 
 
