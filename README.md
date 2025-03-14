@@ -22,6 +22,9 @@ Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a 
 
   ## Slovník pojmov
 
+Here is the updated table in the same format as your input:
+
+```
 | **Pojem** | **Anglický názov** | **Definícia** |
 |-----------|----------------|-------------|
 | **Podujatie** | Event | Organizovaná udalosť, ako je konferencia, seminár alebo webový seminár. |
@@ -33,4 +36,8 @@ Náš systém by mal umožniť používateľom vyhľadávať, registrovať sa a 
 | **Spätná väzba** | Feedback | Hodnotenie alebo komentár k podujatiu poskytnutý používateľmi. |
 | **Hromadný e-mail** | Mass Email | E-mail odoslaný organizátorom viacerým účastníkom podujatia naraz. |
 | **Oznam** | Announcement | Dôležitá správa určená účastníkom prihláseným na podujatie. |
+| **Mentor kurzu** | Course Mentor | Osoba poskytujúca odborné vedenie a podporu účastníkom kurzu. |
+| **Účet** | Account | Individuálny profil používateľa s osobnými údajmi a nastaveniami. |
+```
+
 
